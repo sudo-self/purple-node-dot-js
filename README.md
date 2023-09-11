@@ -1,4 +1,5 @@
 # Node.js ------> https://purple-node-dot-js.glitch.me 
+## ![Screenshot 2023-09-11 at 5 22 53 AM](https://github.com/sudo-self/purple-node-dot-js/assets/119916323/fbf43baa-1aa3-44ac-8a96-122cdf923314)<br>
 
 This project includes a Node.js server script and a web page that connects to it. The front-end page presents a form the visitor can use to submit a color name, sending the submitted value to the back-end API running on the server. The server returns info to the page that allows it to update the display with the chosen color. 🎨
 
