@@ -1,13 +1,7 @@
 # <a href="https://purple-node-dot-js.glitch.me">Purple Drip Node.js
 ## ![Screenshot 2023-09-11 at 5 22 53 AM](https://github.com/sudo-self/purple-node-dot-js/assets/119916323/fbf43baa-1aa3-44ac-8a96-122cdf923314)<br>
 
-This project includes a Node.js server script and a web page that connects to it. The front-end page presents a form the visitor can use to submit a color name, sending the submitted value to the back-end API running on the server. The server returns info to the page that allows it to update the display with the chosen color. 🎨
-
-## Prerequisites
-
-You'll get best use out of this project if you're familiar with basic JavaScript. If you've written JavaScript for client-side web pages this is a little different because it uses server-side JS, but the syntax is the same!
-
-## What's in this project?
+This project includes a Node.js server script and a web page that connects to it. The front-end page presents a form the visitor can use to submit a color name, sending the submitted value to the back-end API running on the server. The server returns info to the page that allows it to update the display with the chosen color.
 
 ← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
 
@@ -24,12 +18,3 @@ You'll get best use out of this project if you're familiar with basic JavaScript
 ← `src/colors.json`: A collection of CSS color names. We use this in the server script to pick a random color, and to match searches against color names.
 
 ← `src/seo.json`: When you're ready to share your new site or add a custom domain, change SEO/meta settings in here.
-
-## Try this next 🏗️
-
-Take a look in `TODO.md` for next steps you can try out in your new site!
-
-___Want a minimal version of this project to build your own Node.js app? Check out [Blank Node](https://glitch.com/edit/#!/remix/glitch-blank-node)!___
-
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
-
